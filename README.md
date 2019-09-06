@@ -1,4 +1,4 @@
-# it-test-editor
+# test-editor
 
 ## Project setup
 ```
@@ -24,5 +24,3 @@ npm run test
 ```
 npm run lint
 ```
-
-# quize-builder-vue
